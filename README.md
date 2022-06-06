@@ -1,4 +1,7 @@
 ![](https://cdn.discordapp.com/banners/750036101162467419/04af0ebccbb6c80f2b8b5c9ac47d07c7.png?size=1024)
+# Hey! 👋🏻
+# My name is Foxiq 🦊
+# I'm a Software Developer 👨🏻‍💻
 <!--
 Github Template
 ### Hi there 👋
