@@ -2,7 +2,7 @@
 # Hey! 👋🏻
 # My name is Foxiq 🦊
 # I'm a Software Developer 👨🏻‍💻
-![](https://activity-graph.herokuapp.com/graph?username=ffoxiq&theme=minimal)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
 <!--
 Github Template
 ### Hi there 👋
