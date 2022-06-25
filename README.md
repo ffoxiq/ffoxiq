@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/banners/750036101162467419/04af0ebccbb6c80f2b8b5c9ac47d07c7.png?size=1024)
+![](https://user-images.githubusercontent.com/106991234/175770212-4cbd4922-ffea-40a6-b139-b343147c667e.png)
 # Hey! 👋🏻
 # My name is Foxiq 🦊
 # I'm a Software Developer 👨🏻‍💻
@@ -8,7 +8,8 @@ Github Template
 ### Hi there 👋
 
 
-**ffoxiq/ffoxiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ffoxiq/ffoxiq** is a ✨ _special_ ✨ rep
+ository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
