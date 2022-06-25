@@ -1,9 +1,8 @@
 ![](https://user-images.githubusercontent.com/106991234/175770297-96cd4802-ebf3-4004-ad59-b24db623f1d0.png)
-ize=2048)
 # Hey! 👋🏻
 # My name is Foxiq 🦊
 # I'm a Software Developer 👨🏻‍💻
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ffoxiq&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ffoxiq&theme=dark)
 <!--
 Github Template
 ### Hi there 👋
