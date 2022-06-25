@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/106991234/175770212-4cbd4922-ffea-40a6-b139-b343147c667e.png)
+![](https://user-images.githubusercontent.com/106991234/175770212-4cbd4922-ffea-40a6-b139-b343147c667e.png&size=2048)
 # Hey! 👋🏻
 # My name is Foxiq 🦊
 # I'm a Software Developer 👨🏻‍💻
