@@ -1,4 +1,5 @@
-![](https://user-images.githubusercontent.com/106991234/175770297-96cd4802-ebf3-4004-ad59-b24db623f1d0.png)
+![](https://user-images.githubusercontent.com/106991234/176905920-980061ae-8be4-4264-870b-0b0d0a45103e.png)
+
 <!--
 Github Template
 ### Hi there 👋
